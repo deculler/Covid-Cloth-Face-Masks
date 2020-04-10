@@ -16,6 +16,8 @@ For many individuals, a [simpler 2-Layer mask](https://about.kaiserpermanente.or
 
 ## Designs:
 
+[4 layer with pocket, N-95 form factor by Monterey / Santa Cruz Medical Soc., Idea Fab Lab, ppe4cc.org](https://drive.google.com/file/d/11M7ksfqt_asVxY2ketbAnHRGUKRfNtpD/view), [pattern](https://drive.google.com/file/d/1mYrU4wJRfEpEEGB8cxV031PBhWsyz8kp/view)
+
 [2 layer, pleated, with ties by Kaiser Permanente](https://about.kaiserpermanente.org/content/dam/internet/kp/comms/import/uploads/2020/03/02_COVID_Mask-Instructions_v9.pdf)
 
 [2 layer, pleated,  with ties, St Joseph Hospital](https://operationwecansewit.com/wp-content/uploads/2020/03/We-Can-Sew-It-Mask-Pattern-2.20.20-v4.pdf)

@@ -1,5 +1,7 @@
 # [Locally-Sourced Reusable Cloth Face Masks](https://deculler.github.io/Covid-Cloth-Face-Masks/)
 
+![Image](https://deculler.github.io/Covid-Cloth-Face-Masks/fourlayer.png)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/deculler/Covid-Cloth-Face-Masks/edit/master/README.md) to maintain and preview the content for your website in Markdown files.

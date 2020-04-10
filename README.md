@@ -42,7 +42,7 @@ The NIOSH [provides a nice video](https://www.youtube.com/watch?v=-sY47zdE7YA) i
 
 The National Personal Protective Technology Laboratory (NPPTL) provides additional material, including some [filtering out the confusion white papers at https://knowits.niosh.gov](https://knowits.niosh.gov) that are supposed to help answer our questions.  It answers some.
 
-## </a id=sectionMobilize>Mobilizing</a>
+## <a id="sectionMobilize">Mobilizing</a>
 
 Ultimately, the questions we all need to be asking is how are our local health providers going to get through these coming weeks and what it going to be the plan as the restrictions which are so essential in hammering down the spread begin to be lifted.  What is our county's public health plan.
 

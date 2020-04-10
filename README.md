@@ -42,7 +42,7 @@ The NIOSH [provides a nice video](https://www.youtube.com/watch?v=-sY47zdE7YA) i
 
 The National Personal Protective Technology Laboratory (NPPTL) provides additional material, including some [filtering out the confusion white papers at https://knowits.niosh.gov](https://knowits.niosh.gov) that are supposed to help answer our questions.  It answers some.
 
-We are starting to see some studies of design options and trade-offs.  Those will be essential.  Some [recent preliminary data](https://twitter.com/carlwangyang/status/1248657555720724481/photo/1) seems to indicate a three-fold increase in filtration efficiency going from 2 to 4 layers of 600 threadcount cotton, a large improvement over 400 thread count, and marginal additional benefit of 1000 thread count.  
+We are starting to see some studies of design options and trade-offs.  Those will be essential.  Some [recent preliminary data](https://twitter.com/carlwangyang/status/1248657555720724481/photo/1) seems to indicate a three-fold increase in filtration efficiency going from 2 to 4 layers of 600 threadcount cotton, a large improvement over 400 thread count, and marginal additional benefit of 1000 thread count. Seems that little attention has been paid to cotton batting options.
 
 https://news.mst.edu/2020/04/environmental-engineers-study-fabrics-materials-for-face-covers/
 

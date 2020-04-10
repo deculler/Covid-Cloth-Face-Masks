@@ -46,7 +46,11 @@ The National Personal Protective Technology Laboratory (NPPTL) provides addition
 
 Ultimately, the questions we all need to be asking is how are our local health providers going to get through these coming weeks and what it going to be the plan as the restrictions which are so essential in hammering down the spread begin to be lifted.  What is our county's public health plan.
 
-There are many efforts, such as [https://getusppe.org/](https://getusppe.org/), to engage the Maker community.  Designs can be submitted for analysis.  Matchmaking, etc.  But communities need to go into local production now.  Some are utilizing recently unemployed individuals with sewing skills, providing kits of cut patterns to accelerate production.  Others are engaging local manufacturers with textile capacity to produce in volume.  We could imagine every neighborhood working with their local "dry cleaning and alternations" firm to generate masks and much needed income.  Retirement communities are discovering that the very people who are so vulnerable and needs masks dearly have the sewing skills to make them
+There are many efforts, such as [https://getusppe.org/](https://getusppe.org/), to engage the Maker community.  Designs can be submitted for analysis.  Matchmaking, etc.  But communities need to go into local production now.  Some are utilizing recently unemployed individuals with sewing skills, providing kits of cut patterns to accelerate production.  Others are engaging local manufacturers with textile capacity to produce in volume.  We could imagine every neighborhood working with their local "dry cleaning and alternations" firm to generate masks and much needed income.  Retirement communities are discovering that the very people who are so vulnerable and needs masks dearly have the sewing skills to make them.
+
+
+https://news.mst.edu/2020/04/environmental-engineers-study-fabrics-materials-for-face-covers/
+
 
 
 

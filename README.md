@@ -14,8 +14,7 @@ reasonably high thread count.  One layer is straight cut (with the grain of the 
 
 For many individuals, a [simpler 2-Layer mask](https://about.kaiserpermanente.org/content/dam/internet/kp/comms/import/uploads/2020/03/02_COVID_Mask-Instructions_v9.pdf) may be a more approachable alternative.  It is easier to sew and requires less material.  These designs provide a DIY avenue for individuals and community groups to protect themselves, but also provide ways to [mobilize production resources in the community](http://goodtimes.sc/santa-cruz-news/new-santa-cruz-group-making-face-masks-for-covid-19-pandemic/).  The can potentially be produced by essentially any company working with textiles - apparel manufacturers, backpacks, outdoor gear, sail makers, sewing contractors, etc.
 
-## Designs:
-<a name="section-designs"></a>
+## <a id="section-designs">Designs </a>
 
 [4 layer with pocket, N-95 form factor by Monterey / Santa Cruz Medical Soc., Idea Fab Lab, ppe4cc.org](https://drive.google.com/file/d/11M7ksfqt_asVxY2ketbAnHRGUKRfNtpD/view), [pattern](https://drive.google.com/file/d/1mYrU4wJRfEpEEGB8cxV031PBhWsyz8kp/view)
 

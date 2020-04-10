@@ -12,7 +12,19 @@ reasonably high thread count.  One layer is straight cut (with the grain of the 
 
 ![Image](https://deculler.github.io/Covid-Cloth-Face-Masks/fourlayer.png)
 
-For many individuals, the [simpler 2-Layer Mask recommended by Kaiser Permanente](https://about.kaiserpermanente.org/content/dam/internet/kp/comms/import/uploads/2020/03/02_COVID_Mask-Instructions_v9.pdf) may be a more approachable alternative.  It is easier to sew and requires less material.  These designs provide a DIY avenue for individuals and community groups to protect themselves, but also provide ways to [mobilize production resources in the community](http://goodtimes.sc/santa-cruz-news/new-santa-cruz-group-making-face-masks-for-covid-19-pandemic/).  The can potentially be produced by essentially any company working with textiles - apparel manufacturers, backpacks, outdoor gear, sail makers, sewing contractors, etc.
+For many individuals, a [simpler 2-Layer mask](https://about.kaiserpermanente.org/content/dam/internet/kp/comms/import/uploads/2020/03/02_COVID_Mask-Instructions_v9.pdf) may be a more approachable alternative.  It is easier to sew and requires less material.  These designs provide a DIY avenue for individuals and community groups to protect themselves, but also provide ways to [mobilize production resources in the community](http://goodtimes.sc/santa-cruz-news/new-santa-cruz-group-making-face-masks-for-covid-19-pandemic/).  The can potentially be produced by essentially any company working with textiles - apparel manufacturers, backpacks, outdoor gear, sail makers, sewing contractors, etc.
+
+## Designs:
+
+[2 layer, pleated, with ties by Kaiser Permanente](https://about.kaiserpermanente.org/content/dam/internet/kp/comms/import/uploads/2020/03/02_COVID_Mask-Instructions_v9.pdf)
+
+[2 layer, pleated,  with ties, St Joseph Hospital](https://operationwecansewit.com/wp-content/uploads/2020/03/We-Can-Sew-It-Mask-Pattern-2.20.20-v4.pdf)
+
+[2 layer with ear loops by Emory Health](https://www.emoryhealthcare.org/ui/pdfs/covid/9x15-cloth-mask-rectangle-picture-tutorial.pdf)
+
+[2 layer with nose bridge, seam down front, single tie head strap](https://media.rainpos.com/4868/surgical_mask_with_ties_pins_rs.pdf?fbclid=IwAR1USpE_5h1X38TPJZcb6zQsx862NKNBWNGZpedgXPTHUH7y9ayx9QIxMQY)
+
+## Determining performance, efficacy
 
 NIOSH video: https://www.youtube.com/watch?v=-sY47zdE7YA
 
@@ -23,13 +35,6 @@ https://blogs.cdc.gov/niosh-science-blog/2009/10/14/n95/
 County public health plan 
 - for how to get through these coming weeks
 - for when the restrictions are lifted
-
-Designs:
-
-https://www.emoryhealthcare.org/ui/pdfs/covid/9x15-cloth-mask-rectangle-picture-tutorial.pdf
-
-https://media.rainpos.com/4868/surgical_mask_with_ties_pins_rs.pdf?fbclid=IwAR1USpE_5h1X38TPJZcb6zQsx862NKNBWNGZpedgXPTHUH7y9ayx9QIxMQY
-
 
 
 

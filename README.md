@@ -1,41 +1,13 @@
 # [Locally-Sourced Reusable Cloth Face Masks](https://deculler.github.io/Covid-Cloth-Face-Masks/)
 
+On April 2, 2020 the CDC [finally recommended the use of face masks for the general population](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/cloth-face-cover.html), partially recognizing what public health experts know all along.  However, they contnued to discourage the use of surgical masks and N-95 respirators, seeking
+to reserve dwindling supplies for health and medical personnel. 
+
+[Simple 2-Layer Mask @ Kaiser](https://about.kaiserpermanente.org/content/dam/internet/kp/comms/import/uploads/2020/03/02_COVID_Mask-Instructions_v9.pdf)
+
+[Project PPE 4 Central Coast](http://ppe4cc.org)
+
+
 ![Image](https://deculler.github.io/Covid-Cloth-Face-Masks/fourlayer.png)
 
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/deculler/Covid-Cloth-Face-Masks/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/deculler/Covid-Cloth-Face-Masks/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[A good doc on filter FAQs](https://www.envirosafetyproducts.com/resources/dust-masks-whats-the-difference.html)

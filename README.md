@@ -20,6 +20,10 @@ https://blogs.cdc.gov/niosh-science-blog/2009/10/14/n95/
 
 [A good doc on filter FAQs](https://www.envirosafetyproducts.com/resources/dust-masks-whats-the-difference.html)
 
+County public health plan 
+- for how to get through these coming weeks
+- for when the restrictions are lifted
+
 
 
 

@@ -42,6 +42,16 @@ The NIOSH [provides a nice video](https://www.youtube.com/watch?v=-sY47zdE7YA) i
 
 The National Personal Protective Technology Laboratory (NPPTL) provides additional material, including some [filtering out the confusion white papers at https://knowits.niosh.gov](https://knowits.niosh.gov) that are supposed to help answer our questions.  It answers some.
 
+We are starting to see some studies of design options and trade-offs.  Those will be essential.  Some [recent preliminary data](https://twitter.com/carlwangyang/status/1248657555720724481/photo/1) seems to indicate a three-fold increase in filtration efficiency going from 2 to 4 layers of 600 threadcount cotton, a large improvement over 400 thread count, and marginal additional benefit of 1000 thread count.  
+
+https://news.mst.edu/2020/04/environmental-engineers-study-fabrics-materials-for-face-covers/
+
+https://twitter.com/carlwangyang/status/1245925586868015104
+
+https://jennifermaker.com/diy-face-mask-filter-materials/
+
+https://www.researchgate.net/publication/258525804_Testing_the_Efficacy_of_Homemade_Masks_Would_They_Protect_in_an_Influenza_Pandemic
+
 ## <a id="sectionMobilize">Mobilizing</a>
 
 Ultimately, the questions we all need to be asking is how are our local health providers going to get through these coming weeks and what it going to be the plan as the restrictions which are so essential in hammering down the spread begin to be lifted.  What is our county's public health plan.
@@ -49,7 +59,7 @@ Ultimately, the questions we all need to be asking is how are our local health p
 There are many efforts, such as [https://getusppe.org/](https://getusppe.org/), to engage the Maker community.  Designs can be submitted for analysis.  Matchmaking, etc.  But communities need to go into local production now.  Some are utilizing recently unemployed individuals with sewing skills, providing kits of cut patterns to accelerate production.  Others are engaging local manufacturers with textile capacity to produce in volume.  We could imagine every neighborhood working with their local "dry cleaning and alternations" firm to generate masks and much needed income.  Retirement communities are discovering that the very people who are so vulnerable and needs masks dearly have the sewing skills to make them.
 
 
-https://news.mst.edu/2020/04/environmental-engineers-study-fabrics-materials-for-face-covers/
+
 
 
 

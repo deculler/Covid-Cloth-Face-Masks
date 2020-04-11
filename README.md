@@ -8,11 +8,13 @@ No occupation should be without masks.  Every step of the food chain, those harv
 
 This approach means the use of fabric and filter materials that are widely available throughout the economy, rather than relying on the specialized materials and mechanisms narrowly provided for [traditional suppliers](https://www.cdc.gov/niosh/npptl/topics/respirators/disp_part/n95list1.html).  It means the use of manufacturing methods that are indemic in our communities - *sewing*.  It means using local production for immediate delivery.  These enable rapid ramp to scale directly to the faces that need the PPE.
 
+![Image](https://deculler.github.io/Covid-Cloth-Face-Masks/fourlayer.png)
+
 Many good designs have been developed and put into production in some manner, from DIY to [fashion](https://www.popsugar.com/fashion/fashion-brands-cotton-face-masks-coronavirus-47377462).  One developed at 
 [Project PPE 4 Central Coast](http://ppe4cc.org) in conjunction with the Monterey and Santa Cruz Medicial Societies is described here.  The mask consists of front and back parts forming an interstitial pocket that can hold an optional filter - [ HEPA vacuum bag](https://www.huffpost.com/entry/best-materials-diy-face-masks-filters_l_5e8ce4c6c5b6e1a2e0fb4ada), coffee filter, anti-static face mask material, whatever.  Each of the parts are formed of two 100% cotton layers of
 reasonably high thread count.  One layer is straight cut (with the grain of the fabric) and one bias cut (on a 45 degree) so that the varying overlap can reduce porocity and increase interception.  The pattern, modeled on the traditional N-95, provides a snug fit around the nose, along the cheeks, and under the chin to reduce escape.  A simple modable wire is sewn in to the front layer to form the nose bridge.  Washing in soapy water for repeated use.  
 
-![Image](https://deculler.github.io/Covid-Cloth-Face-Masks/fourlayer.png)
+
 
 For many individuals, a [simpler 2-Layer mask](https://about.kaiserpermanente.org/content/dam/internet/kp/comms/import/uploads/2020/03/02_COVID_Mask-Instructions_v9.pdf) may be a more approachable alternative.  It is easier to sew and requires less material.  These simpler designs may also be the right choice for low-risk settings, as they can be produced cheaper and faster.
 

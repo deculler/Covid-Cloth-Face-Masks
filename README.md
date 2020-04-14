@@ -34,6 +34,8 @@ Here is links to some of the better designs out there.
 
 [2 layer with nose bridge, seam down front, single tie head strap](https://media.rainpos.com/4868/surgical_mask_with_ties_pins_rs.pdf?fbclid=IwAR1USpE_5h1X38TPJZcb6zQsx862NKNBWNGZpedgXPTHUH7y9ayx9QIxMQY)
 
+[GetUsPPE recognized face mask projects](https://getusppe.org/makers/face-masks/)
+
 ## <a id="sectionTest">Testing - determining performance and efficacy</a>
 
 There are big questions around how effective are these and various other measures.  A good discussion of these issues is available [from the CDC around the 2009 H1N1 influenza outbreak](https://blogs.cdc.gov/niosh-science-blog/2009/10/14/n95/).  Part of the challenge is that filtering the intake of particulate matter is not entirely the same issue as preventing the transfer of small viral entities in respiratory water droplets. Some of comments in the CDC blog observe that absorbing and retaining moisture is an important factor.  And it is not just a matter of filter, it is also a question of fit and how people actually use them.
@@ -46,13 +48,12 @@ The National Personal Protective Technology Laboratory (NPPTL) provides addition
 
 We are starting to see some studies of design options and trade-offs.  Those will be essential.  Some [recent preliminary data](https://twitter.com/carlwangyang/status/1248657555720724481/photo/1) seems to indicate a three-fold increase in filtration efficiency going from 2 to 4 layers of 600 threadcount cotton, a large improvement over 400 thread count, and marginal additional benefit of 1000 thread count. Seems that little attention has been paid to cotton batting options.
 
-https://news.mst.edu/2020/04/environmental-engineers-study-fabrics-materials-for-face-covers/
+[Missouri S&T Current Testing](https://news.mst.edu/2020/04/environmental-engineers-study-fabrics-materials-for-face-covers/)
+* [Results on Twitter](https://twitter.com/carlwangyang/status/1245925586868015104)
 
-https://twitter.com/carlwangyang/status/1245925586868015104
+[Cambridge 2013 study of homemade facemasks in Influenza Pandemic](https://www.researchgate.net/publication/258525804_Testing_the_Efficacy_of_Homemade_Masks_Would_They_Protect_in_an_Influenza_Pandemic)
 
 https://jennifermaker.com/diy-face-mask-filter-materials/
-
-https://www.researchgate.net/publication/258525804_Testing_the_Efficacy_of_Homemade_Masks_Would_They_Protect_in_an_Influenza_Pandemic
 
 ## <a id="sectionMobilize">Mobilizing</a>
 

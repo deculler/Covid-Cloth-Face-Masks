@@ -40,6 +40,8 @@ Here is links to some of the better designs out there.
 
 ## <a id="sectionTest">Testing - determining performance and efficacy</a>
 
+Often described as "qualitative seal testing" the NIOSH provides a [good descritption of how to put on and take off a mask] (https://www.cdc.gov/niosh/docs/2010-133/pdfs/2010-133.pdf).  Except for the "dispose" part, it is common sense for washable masks too.
+
 There are big questions around how effective are these and various other measures.  A good discussion of these issues is available [from the CDC around the 2009 H1N1 influenza outbreak](https://blogs.cdc.gov/niosh-science-blog/2009/10/14/n95/).  Part of the challenge is that filtering the intake of particulate matter is not entirely the same issue as preventing the transfer of small viral entities in respiratory water droplets. Some of comments in the CDC blog observe that absorbing and retaining moisture is an important factor.  And it is not just a matter of filter, it is also a question of fit and how people actually use them.
 
 The filter ratings basically reflect what percentage of particles 0.3 microns or larger are removed, N-95 for 95%. Some observe that the virus is smaller than this.  But, this neglects that it is not floating in isolation, but carried on droplets of excretions. [Here's filter FAQs](https://www.envirosafetyproducts.com/resources/dust-masks-whats-the-difference.html).
@@ -61,14 +63,8 @@ https://jennifermaker.com/diy-face-mask-filter-materials/
 
 Ultimately, the questions we all need to be asking is how are our local health providers going to get through these coming weeks and what it going to be the plan as the restrictions which are so essential in hammering down the spread begin to be lifted.  What is our county's public health plan.
 
-There are many efforts, such as [https://getusppe.org/](https://getusppe.org/), to engage the Maker community.  Designs can be submitted for analysis.  Matchmaking, etc.  But communities need to go into local production now.  Some are utilizing recently unemployed individuals with sewing skills, providing kits of cut patterns to accelerate production.  Others are engaging local manufacturers with textile capacity to produce in volume.  We could imagine every neighborhood working with their local "dry cleaning and alternations" firm to generate masks and much needed income.  Retirement communities are discovering that the very people who are so vulnerable and needs masks dearly have the sewing skills to make them.
+There are [nearly 5,000 GoFundMe efforts for PPE](https://www.gofundme.com/mvc.php?route=homepage_norma/search&term=PPE).  There are many efforts, such as [https://getusppe.org/](https://getusppe.org/), to engage the Maker community.  Designs can be submitted for analysis.  Also many matchmaking efforts, [https://www.donateppe.org/](https://www.donateppe.org/), [https://www.mask-match.com/](https://www.mask-match.com/).  
 
-
-
-
-
-
-
-
+But communities need to go into local production **now**.  Some are utilizing recently unemployed individuals with sewing skills, providing kits of cut patterns to accelerate production.  Others are engaging local manufacturers with textile capacity to produce in volume.  We could imagine every neighborhood working with their local "dry cleaning and alternations" firm to generate masks and much needed income.  Retirement communities are discovering that the very people who are so vulnerable and needs masks dearly have the sewing skills to make them.  There does not yet seem to be a clearing house of guidance for how to translate community desire to help into physical resources that will be put to use in the challenging days ahead.  That is a much more subtle, politically complicated process than actually making masks, but it fundamentally depends on them getting made and distributed.
 
 

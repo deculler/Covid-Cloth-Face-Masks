@@ -67,4 +67,6 @@ There are [nearly 5,000 GoFundMe efforts for PPE](https://www.gofundme.com/mvc.p
 
 But communities need to go into local production **now**.  Some are utilizing recently unemployed individuals with sewing skills, providing kits of cut patterns to accelerate production.  Others are engaging local manufacturers with textile capacity to produce in volume.  We could imagine every neighborhood working with their local "dry cleaning and alternations" firm to generate masks and much needed income.  Retirement communities are discovering that the very people who are so vulnerable and needs masks dearly have the sewing skills to make them.  There does not yet seem to be a clearing house of guidance for how to translate community desire to help into physical resources that will be put to use in the challenging days ahead.  That is a much more subtle, politically complicated process than actually making masks, but it fundamentally depends on them getting made and distributed.
 
+At the industrial scale, [FEMA airbridge](https://www.fema.gov/news-release/2020/04/08/fema-covid-19-supply-chain-task-force-supply-chain-stabilization) has some elements.
+
 

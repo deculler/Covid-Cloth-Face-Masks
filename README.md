@@ -24,6 +24,8 @@ These designs provide a DIY avenue for individuals and community groups to prote
 
 Here is links to some of the better designs out there.
 
+[Simpler variants of the 4-layer IFL maske below](https://deculler.github.io/Covid-Cloth-Face-Masks/instructions.v2.pdf)
+
 [4 layer with pocket, N-95 form factor by Monterey / Santa Cruz Medical Soc., Idea Fab Lab, ppe4cc.org](https://drive.google.com/file/d/11M7ksfqt_asVxY2ketbAnHRGUKRfNtpD/view), [pattern](https://drive.google.com/file/d/1mYrU4wJRfEpEEGB8cxV031PBhWsyz8kp/view)
 
 [2 layer, pleated, with ties by Kaiser Permanente](https://about.kaiserpermanente.org/content/dam/internet/kp/comms/import/uploads/2020/03/02_COVID_Mask-Instructions_v9.pdf)

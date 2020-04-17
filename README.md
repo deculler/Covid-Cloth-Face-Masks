@@ -22,7 +22,7 @@ These designs provide a DIY avenue for individuals and community groups to prote
 
 ## <a id="sectionDesigns">Designs</a>
 
-Here is links to some of the better designs out there.
+Here is links to some of the better designs out there.  [NY Times Overview](https://www.nytimes.com/interactive/2020/health/coronavirus-best-face-masks.html)
 
 [Simpler variant of the 4-layer IFL mask below, and 2-layer option](https://deculler.github.io/Covid-Cloth-Face-Masks/instructions.v2.pdf)
 
